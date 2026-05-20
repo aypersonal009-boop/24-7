@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DontForget_toSub.aternos.me",
-    "port": "49395",
+    "port": 49395,
     "version": "1.20.1",
     "try-creative": false
   },
